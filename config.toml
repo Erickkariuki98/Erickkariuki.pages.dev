@@ -1,4 +1,4 @@
-baseURL = 'https://ignytis.github.io/'
+baseURL = 'https://Erickkariuki98.github.io/'
 languageCode = 'en-us'
 title = 'A personal blog. Sharing is caring'
 theme = 'm10c'
@@ -16,9 +16,9 @@ theme = 'm10c'
     weight = 2
 
 [params]
-author = 'Ignytis'
+author = 'Erickkariuki'
 avatar = 'avatar_ignytis.jpg'
-description = 'Ignytis. A Software Engineer from Estonia'
+description = 'Erick Kariuki. A Software Engineer from Estonia'
 
 [[params.social]]
 icon = "github"
