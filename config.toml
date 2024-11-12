@@ -23,15 +23,10 @@ description = 'Erick Kariuki. A Software Engineer from Estonia'
 [[params.social]]
 icon = "github"
 name = "Github"
-url = "https://github.com/ignytis"
-
-[[params.social]]
-icon = "twitter"
-name = "Twitter"
-url = "https://x.com/ignytis"
+url = "https://github.com/Erickkariuki98"
 
 [[params.social]]
 icon = "website"
 name = "Linktree"
-url = "https://linktr.ee/ignytis"
+url = "https://linktr.ee/igny"
 
