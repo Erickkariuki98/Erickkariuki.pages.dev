@@ -1,0 +1,37 @@
+baseURL = 'https://ignytis.github.io/'
+languageCode = 'en-us'
+title = 'A personal blog. Sharing is caring'
+theme = 'm10c'
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+
+[params]
+author = 'Ignytis'
+avatar = 'avatar_ignytis.jpg'
+description = 'Ignytis. A Software Engineer from Estonia'
+
+[[params.social]]
+icon = "github"
+name = "Github"
+url = "https://github.com/ignytis"
+
+[[params.social]]
+icon = "twitter"
+name = "Twitter"
+url = "https://x.com/ignytis"
+
+[[params.social]]
+icon = "website"
+name = "Linktree"
+url = "https://linktr.ee/ignytis"
+
