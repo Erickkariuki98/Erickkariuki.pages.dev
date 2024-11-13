@@ -18,12 +18,10 @@ theme = 'm10c'
 [params]
 author = 'Erickkariuki'
 avatar = 'avatar_ignytis.jpg'
-description = 
-'My name is Erick Kariuki and welcome to my blog!
-I'm a software engineering graduate currently working on different freelance projects.
-I occassionally write on my blog about tech, projects and everythingelated to the web i find interesting .
-
-Have a look at my latest posts 👇'
+description = 'My name is Erick Kariuki and welcome to my blog!'
+description= 'Iam a software engineering graduate currently working on different freelance projects.'
+description='I occassionally write on my blog about tech, projects and everything related to the web i find interesting'
+description='Have a look at my latest posts 👇'
 
 [[params.social]]
 icon = "github"
