@@ -18,7 +18,12 @@ theme = 'm10c'
 [params]
 author = 'Erickkariuki'
 avatar = 'avatar_ignytis.jpg'
-description = 'Erick Kariuki. A Software Engineer from Nairobi'
+description = 
+'My name is Erick Kariuki and welcome to my blog!
+I'm a software engineering graduate currently working on different freelance projects.
+I occassionally write on my blog about tech, projects and everythingelated to the web i find interesting .
+
+Have a look at my latest posts 👇'
 
 [[params.social]]
 icon = "github"
@@ -28,5 +33,5 @@ url = "https://github.com/Erickkariuki98"
 [[params.social]]
 icon = "website"
 name = "Linktree"
-url = "https://linktr.ee/igny"
+url = "https://linktr.ee/i
 
