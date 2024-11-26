@@ -18,7 +18,9 @@ theme = 'm10c'
 [params]
 author = 'Erickkariuki'
 avatar = 'karis.png'
-description = 'My name is Erick Kariuki and welcome to my blog!'[[params.social]]
+description = 'My name is Erick Kariuki and welcome to my blog!'
+
+[[params.social]]
 icon = "github"
 name = "Github"
 url = "https://github.com/Erickkariuki98"
