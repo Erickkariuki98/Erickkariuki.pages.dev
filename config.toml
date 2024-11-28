@@ -1,6 +1,6 @@
 baseURL = 'https://erickkariuki98.github.io/blog/'
 languageCode = 'en-us'
-title = 'Erick KariukI Blog'
+title = 'Erick Kariuki Blog'
 theme = 'm10c'
 
 [menu]
