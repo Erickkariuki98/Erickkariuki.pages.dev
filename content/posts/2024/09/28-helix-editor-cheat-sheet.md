@@ -71,4 +71,3 @@ Unlike in some other editors, the Search and Replace operation in Helix is a cha
 
 1. Press `x`
 1. Press `d`
-2. 
